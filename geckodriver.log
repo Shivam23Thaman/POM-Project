@@ -1,0 +1,7 @@
+1600205033960	geckodriver	INFO	Listening on 127.0.0.1:57061
+1600205033979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBxJwU6"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600205044910	Marionette	INFO	Listening on port 33013
+1600205044955	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://js.stripe.com/v3/, line 1: IntegrationError: Stripe.js requires that your page has a <body> element.
+1600205090038	Marionette	INFO	Stopped listening on port 33013

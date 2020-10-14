@@ -1,0 +1,135 @@
+10/11/2020 01:17:26 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+10/11/2020 01:17:26 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+10/11/2020 01:17:36 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+10/11/2020 01:17:36 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+10/11/2020 01:17:36 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+10/11/2020 01:17:36 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+10/11/2020 01:17:37 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+10/11/2020 01:17:39 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+10/11/2020 01:17:47 PM - LoginPage - INFO: Element not found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
+10/11/2020 01:17:47 PM - LoginPage - INFO: Element not found
+10/11/2020 01:17:47 PM - TestStatus - ERROR: ### VERIFICATION SUCCESSFUL ::  Login Sucessful
+10/11/2020 01:17:47 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+10/11/2020 01:17:50 PM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
+10/11/2020 01:17:50 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+10/11/2020 01:17:53 PM - LoginPage - INFO: Element not found with locator: user_email and  locatorType: id
+10/11/2020 01:17:53 PM - LoginPage - INFO: Cannot send data on the element with locator: user_email locatorType: id
+10/11/2020 01:17:56 PM - LoginPage - INFO: Element not found with locator: user_password and  locatorType: id
+10/11/2020 01:17:56 PM - LoginPage - INFO: Cannot send data on the element with locator: user_password locatorType: id
+10/11/2020 01:17:59 PM - LoginPage - INFO: Element not found with locator: commit and  locatorType: name
+10/11/2020 01:17:59 PM - LoginPage - INFO: Cannot click on the element with locator: commit locatorType: name
+10/11/2020 01:18:04 PM - TestStatus - ERROR: ### VERIFICATION SUCCESSFUL ::  Title Incorrect
+10/11/2020 01:18:04 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+10/11/2020 01:18:07 PM - LoginPage - INFO: Element not found with locator: //*[@id='navbar']//span[text()='User Settings'] and  locatorType: xpath
+10/11/2020 01:18:07 PM - LoginPage - INFO: Element not found
+10/11/2020 01:18:07 PM - TestStatus - ERROR: ### VERIFICATION SUCCESSFUL ::  Login Unsucessful
+10/11/2020 01:18:07 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+10/11/2020 01:18:07 PM - TestStatus - ERROR: test_validLogin### Test FAILED
+10/11/2020 01:35:42 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+10/11/2020 01:35:42 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+10/11/2020 01:35:50 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+10/11/2020 01:35:50 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+10/11/2020 01:35:50 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+10/11/2020 01:35:50 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+10/11/2020 01:35:50 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+10/11/2020 01:35:52 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+10/11/2020 01:36:00 PM - LoginPage - INFO: Element not found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
+10/11/2020 01:36:00 PM - LoginPage - INFO: Element not found
+10/11/2020 01:36:00 PM - TestStatus - ERROR: ### VERIFICATION SUCCESSFUL ::  Login Sucessful
+10/11/2020 01:36:00 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+10/11/2020 01:36:03 PM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
+10/11/2020 01:36:03 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+10/11/2020 01:36:06 PM - LoginPage - INFO: Element not found with locator: user_email and  locatorType: id
+10/11/2020 01:36:06 PM - LoginPage - INFO: Cannot send data on the element with locator: user_email locatorType: id
+10/11/2020 01:36:09 PM - LoginPage - INFO: Element not found with locator: user_password and  locatorType: id
+10/11/2020 01:36:09 PM - LoginPage - INFO: Cannot send data on the element with locator: user_password locatorType: id
+10/11/2020 01:36:12 PM - LoginPage - INFO: Element not found with locator: commit and  locatorType: name
+10/11/2020 01:36:12 PM - LoginPage - INFO: Cannot click on the element with locator: commit locatorType: name
+10/11/2020 01:36:17 PM - TestStatus - ERROR: ### VERIFICATION SUCCESSFUL ::  Title Incorrect
+10/11/2020 01:36:17 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+10/11/2020 01:36:20 PM - LoginPage - INFO: Element not found with locator: //*[@id='navbar']//span[text()='User Settings'] and  locatorType: xpath
+10/11/2020 01:36:20 PM - LoginPage - INFO: Element not found
+10/11/2020 01:36:20 PM - TestStatus - ERROR: ### VERIFICATION SUCCESSFUL ::  Login Unsucessful
+10/11/2020 01:36:20 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+10/11/2020 01:36:20 PM - TestStatus - ERROR: test_validLogin### Test FAILED
+10/11/2020 01:39:22 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+10/11/2020 01:39:22 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+10/11/2020 01:39:30 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+10/11/2020 01:39:30 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+10/11/2020 01:39:30 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+10/11/2020 01:39:31 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+10/11/2020 01:39:31 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+10/11/2020 01:39:32 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+10/11/2020 01:39:40 PM - LoginPage - INFO: Element not found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
+10/11/2020 01:39:40 PM - LoginPage - INFO: Element not found
+10/11/2020 01:39:40 PM - TestStatus - ERROR: ### VERIFICATION SUCCESSFUL ::  Login Sucessful
+10/11/2020 01:39:41 PM - TestStatus - INFO: Screenshot save to directory:/home/shivam/Documents/selenium_novice_project/base/../screenshots/Login Sucessful.1602403780696.png
+10/11/2020 01:39:44 PM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
+10/11/2020 01:39:44 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+10/11/2020 01:39:47 PM - LoginPage - INFO: Element not found with locator: user_email and  locatorType: id
+10/11/2020 01:39:47 PM - LoginPage - INFO: Cannot send data on the element with locator: user_email locatorType: id
+10/11/2020 01:39:50 PM - LoginPage - INFO: Element not found with locator: user_password and  locatorType: id
+10/11/2020 01:39:50 PM - LoginPage - INFO: Cannot send data on the element with locator: user_password locatorType: id
+10/11/2020 01:39:53 PM - LoginPage - INFO: Element not found with locator: commit and  locatorType: name
+10/11/2020 01:39:53 PM - LoginPage - INFO: Cannot click on the element with locator: commit locatorType: name
+10/11/2020 01:39:58 PM - TestStatus - ERROR: ### VERIFICATION SUCCESSFUL ::  Title Incorrect
+10/11/2020 01:39:58 PM - TestStatus - INFO: Screenshot save to directory:/home/shivam/Documents/selenium_novice_project/base/../screenshots/Title Incorrect.1602403798197.png
+10/11/2020 01:40:01 PM - LoginPage - INFO: Element not found with locator: //*[@id='navbar']//span[text()='User Settings'] and  locatorType: xpath
+10/11/2020 01:40:01 PM - LoginPage - INFO: Element not found
+10/11/2020 01:40:01 PM - TestStatus - ERROR: ### VERIFICATION SUCCESSFUL ::  Login Unsucessful
+10/11/2020 01:40:01 PM - TestStatus - INFO: Screenshot save to directory:/home/shivam/Documents/selenium_novice_project/base/../screenshots/Login Unsucessful.1602403801611.png
+10/11/2020 01:40:01 PM - TestStatus - ERROR: test_validLogin### Test FAILED
+10/11/2020 01:49:51 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+10/11/2020 01:49:51 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+10/11/2020 01:49:59 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+10/11/2020 01:50:00 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+10/11/2020 01:50:00 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+10/11/2020 01:50:00 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+10/11/2020 01:50:00 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+10/11/2020 01:50:01 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+10/11/2020 01:50:10 PM - LoginPage - INFO: Element not found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
+10/11/2020 01:50:10 PM - LoginPage - INFO: Element not present with locator: //div[contains(text(),'Invalid email or password')] locatorType: xpath
+10/11/2020 01:50:10 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login Sucessful
+10/11/2020 01:50:10 PM - TestStatus - INFO: Screenshot save to directory: /home/shivam/Documents/selenium_novice_project/base/../screenshots/Login Sucessful.1602404410040.png
+10/11/2020 01:50:13 PM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
+10/11/2020 01:50:13 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+10/11/2020 01:50:16 PM - LoginPage - INFO: Element not found with locator: user_email and  locatorType: id
+10/11/2020 01:50:16 PM - LoginPage - INFO: Cannot send data on the element with locator: user_email locatorType: id
+10/11/2020 01:50:19 PM - LoginPage - INFO: Element not found with locator: user_password and  locatorType: id
+10/11/2020 01:50:19 PM - LoginPage - INFO: Cannot send data on the element with locator: user_password locatorType: id
+10/11/2020 01:50:22 PM - LoginPage - INFO: Element not found with locator: commit and  locatorType: name
+10/11/2020 01:50:22 PM - LoginPage - INFO: Cannot click on the element with locator: commit locatorType: name
+10/11/2020 01:50:27 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Title Incorrect
+10/11/2020 01:50:27 PM - TestStatus - INFO: Screenshot save to directory: /home/shivam/Documents/selenium_novice_project/base/../screenshots/Title Incorrect.1602404427627.png
+10/11/2020 01:50:30 PM - LoginPage - INFO: Element not found with locator: //*[@id='navbar']//span[text()='User Settings'] and  locatorType: xpath
+10/11/2020 01:50:30 PM - LoginPage - INFO: Element not present with locator: //*[@id='navbar']//span[text()='User Settings'] locatorType: xpath
+10/11/2020 01:50:30 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login Unsucessful
+10/11/2020 01:50:31 PM - TestStatus - INFO: Screenshot save to directory: /home/shivam/Documents/selenium_novice_project/base/../screenshots/Login Unsucessful.1602404430929.png
+10/11/2020 01:50:31 PM - TestStatus - ERROR: test_validLogin ### TEST FAILED
+10/11/2020 01:52:05 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+10/11/2020 01:52:05 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+10/11/2020 01:52:12 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+10/11/2020 01:52:12 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+10/11/2020 01:52:12 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+10/11/2020 01:52:13 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+10/11/2020 01:52:13 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+10/11/2020 01:52:15 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+10/11/2020 01:52:23 PM - LoginPage - INFO: Element not found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
+10/11/2020 01:52:23 PM - LoginPage - INFO: Element not present with locator: //div[contains(text(),'Invalid email or password')] locatorType: xpath
+10/11/2020 01:52:23 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login Sucessful
+10/11/2020 01:52:23 PM - TestStatus - INFO: Screenshot save to directory: /home/shivam/Documents/selenium_novice_project/base/../screenshots/Login Sucessful_1602404543149.png
+10/11/2020 01:52:26 PM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
+10/11/2020 01:52:26 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+10/11/2020 01:52:29 PM - LoginPage - INFO: Element not found with locator: user_email and  locatorType: id
+10/11/2020 01:52:29 PM - LoginPage - INFO: Cannot send data on the element with locator: user_email locatorType: id
+10/11/2020 01:52:32 PM - LoginPage - INFO: Element not found with locator: user_password and  locatorType: id
+10/11/2020 01:52:32 PM - LoginPage - INFO: Cannot send data on the element with locator: user_password locatorType: id
+10/11/2020 01:52:35 PM - LoginPage - INFO: Element not found with locator: commit and  locatorType: name
+10/11/2020 01:52:35 PM - LoginPage - INFO: Cannot click on the element with locator: commit locatorType: name
+10/11/2020 01:52:40 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Title Incorrect
+10/11/2020 01:52:40 PM - TestStatus - INFO: Screenshot save to directory: /home/shivam/Documents/selenium_novice_project/base/../screenshots/Title Incorrect_1602404560670.png
+10/11/2020 01:52:43 PM - LoginPage - INFO: Element not found with locator: //*[@id='navbar']//span[text()='User Settings'] and  locatorType: xpath
+10/11/2020 01:52:43 PM - LoginPage - INFO: Element not present with locator: //*[@id='navbar']//span[text()='User Settings'] locatorType: xpath
+10/11/2020 01:52:43 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login Unsucessful
+10/11/2020 01:52:44 PM - TestStatus - INFO: Screenshot save to directory: /home/shivam/Documents/selenium_novice_project/base/../screenshots/Login Unsucessful_1602404563984.png
+10/11/2020 01:52:44 PM - TestStatus - ERROR: test_validLogin ### TEST FAILED
