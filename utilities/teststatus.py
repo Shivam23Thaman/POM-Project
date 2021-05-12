@@ -7,6 +7,8 @@ It provides functionality to assert the result
 Example:
     self.check_point.markFinal("Test Name", result, "Message")
 """
+import sys 
+sys.path.append("/home/shivam/Documents/selenium_novice_project")
 import utilities.custom_logger as cl
 import logging
 from base.selenium_driver import SeleniumDriver

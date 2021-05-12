@@ -1,0 +1,30 @@
+1. Search course - 
+
+tc1 - searchterm added, Expected - all courses with that keyword should be displayed i.e narrowdown to courses with that keyword.
+tc2 -  empty search box and search - Expected - refresh and All courses should be visible.
+
+2. Select course - 
+
+tc1 - click on course and the right course should be opened.
+tc2 - Description of the right course is displayed.
+tc3 - If free course, the Enroll button should not be present.
+tc3 - If paid course, Enroll button should be present and enabled.
+tc4 - Click on Enroll Button, Should take us to order and payment page.
+
+3. Order and payment page-
+
+tc1 -  order summary, Contact Information and Payment Information headings should be present.
+tc2 - under order summary, Correct Course name, its price, Redeem coupon link and correct total price should be present.
+tc3 - Clicking on redeem coupon should open an inputbox, on typing, apply button should appear.
+tc4 - right code filled and appkied, total course price should change accordingly.
+tc5 - invalid code applied, 'Coupon invalid' should be displayed and apply button should change backgrougnd color to grey.
+tc6 - hover over the greyed apply button, it should return to the original color.
+tc7 - Email label should be present
+tc8 - email test cases should be tested.
+tc9 - logout button should clear the email field, signin link should appear along with text below the email input box and at top.
+tc10 - payment Information should allow filling details- +ve and -ve cases. Done
+tc11 - On payment faliure, error msg should be displayed  Done
+tc12. submit enrollment button should be disabled on faliure.   Done
+tc13. clicking on paypal, should open a popup.  
+
+

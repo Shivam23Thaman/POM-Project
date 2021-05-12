@@ -1,0 +1,77 @@
+03/19/2021 11:50:50 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Any of the necessary blocks do not exist
+03/19/2021 11:51:17 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Error Message not Displayed
+03/19/2021 11:51:18 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Course Enrollemnt Failed
+03/19/2021 11:51:18 PM - TestStatus - INFO: test_invalidEnrollment ### TEST SUCCESSFUL
+03/19/2021 11:51:43 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + logout from contact info failed.
+03/19/2021 11:51:43 PM - TestStatus - INFO: test_logout_contact_info ### TEST SUCCESSFUL
+03/19/2021 11:52:13 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Error Message not Displayed
+03/19/2021 11:52:13 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Was able to buy while logged out
+03/19/2021 11:52:13 PM - TestStatus - INFO: test_buying_after_logout ### TEST SUCCESSFUL
+ll in Course'] and  locatorType: xpath
+03/19/2021 11:50:24 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[text()= 'Enroll in Course'] locatorType: xpath
+03/19/2021 11:50:27 PM - RegisterCoursesPage - INFO: Element found with locator: div.stripe-outer and  locatorType: css
+03/19/2021 11:50:36 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+03/19/2021 11:50:47 PM - RegisterCoursesPage - INFO: Element not appeared on the web page
+03/19/2021 11:50:47 PM - RegisterCoursesPage - INFO: Element found with locator: iframe[title*='card number'] and  locatorType: css
+03/19/2021 11:50:47 PM - RegisterCoursesPage - INFO: Element found with locator: input[placeholder= 'Card Number'] and  locatorType: css
+03/19/2021 11:50:47 PM - RegisterCoursesPage - INFO: Sent data on element with locator: input[placeholder= 'Card Number'] locatorType: css
+03/19/2021 11:50:48 PM - RegisterCoursesPage - INFO: Element found with locator: iframe[title*='expiration date'] and  locatorType: css
+03/19/2021 11:50:48 PM - RegisterCoursesPage - INFO: Element found with locator: exp-date and  locatorType: name
+03/19/2021 11:50:49 PM - RegisterCoursesPage - INFO: Sent data on element with locator: exp-date locatorType: name
+03/19/2021 11:50:49 PM - RegisterCoursesPage - INFO: Element found with locator: iframe[title*='CVC'] and  locatorType: css
+03/19/2021 11:50:49 PM - RegisterCoursesPage - INFO: Element found with locator: cvc and  locatorType: name
+03/19/2021 11:50:50 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cvc locatorType: name
+03/19/2021 11:50:50 PM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(@class, 'sp-buy')] and  locatorType: xpath
+03/19/2021 11:50:50 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[contains(@class, 'sp-buy')] locatorType: xpath
+03/19/2021 11:50:50 PM - RegisterCoursesPage - INFO: Element found with locator: //h3[contains(text(), 'Payment Information')] and  locatorType: xpath
+03/19/2021 11:50:50 PM - RegisterCoursesPage - INFO: Element present with locator: //h3[contains(text(), 'Payment Information')] locatorType: xpath
+03/19/2021 11:50:50 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+03/19/2021 11:51:00 PM - RegisterCoursesPage - INFO: Element not appeared on the web page
+03/19/2021 11:51:05 PM - RegisterCoursesPage - INFO: Element not found with locator: //li[contains(@class, 'text-danger')]
+	//span[contains(text(), 'card number is incomplete')] and locatorType: xpath
+03/19/2021 11:51:05 PM - RegisterCoursesPage - INFO: Element not displayed
+03/19/2021 11:51:05 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+03/19/2021 11:51:15 PM - RegisterCoursesPage - INFO: Element not appeared on the web page
+03/19/2021 11:51:15 PM - RegisterCoursesPage - INFO: Element found with locator: //li[contains(@class, 'text-danger')]
+	//span[contains(text(), 'card number is invalid')] and  locatorType: xpath
+03/19/2021 11:51:16 PM - RegisterCoursesPage - INFO: Element is displayed
+03/19/2021 11:51:17 PM - RegisterCoursesPage - INFO: Screenshot save to directory: /home/shivam/Documents/selenium_novice_project/base/../screenshots/See screenshot directory for error displayed..1616178076188.png
+03/19/2021 11:51:18 PM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(@class, 'sp-buy')] and  locatorType: xpath
+03/19/2021 11:51:18 PM - RegisterCoursesPage - INFO: Element :: 'Enroll Button' is not enabled
+03/19/2021 11:51:18 PM - RegisterCoursesPage - INFO: Element found with locator: //a[text() = 'Logout' and @role='button'] and  locatorType: xpath
+03/19/2021 11:51:19 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[text() = 'Logout' and @role='button'] locatorType: xpath
+03/19/2021 11:51:42 PM - RegisterCoursesPage - INFO: Element found with locator: //p[contains(text(), 'Already have an account')] and  locatorType: xpath
+03/19/2021 11:51:42 PM - RegisterCoursesPage - INFO: Element is displayed
+03/19/2021 11:51:43 PM - RegisterCoursesPage - INFO: Element found with locator: a[title='Already have an account?'] and  locatorType: css
+03/19/2021 11:51:43 PM - RegisterCoursesPage - INFO: Element is displayed
+03/19/2021 11:51:46 PM - RegisterCoursesPage - INFO: Element found with locator: iframe[title*='card number'] and  locatorType: css
+03/19/2021 11:51:47 PM - RegisterCoursesPage - INFO: Element found with locator: input[placeholder= 'Card Number'] and  locatorType: css
+03/19/2021 11:51:47 PM - RegisterCoursesPage - INFO: Clear field with locator: input[placeholder= 'Card Number'] locatorType: css
+03/19/2021 11:51:47 PM - RegisterCoursesPage - INFO: Element found with locator: iframe[title*='expiration date'] and  locatorType: css
+03/19/2021 11:51:48 PM - RegisterCoursesPage - INFO: Element found with locator: exp-date and  locatorType: name
+03/19/2021 11:51:48 PM - RegisterCoursesPage - INFO: Clear field with locator: exp-date locatorType: name
+03/19/2021 11:51:48 PM - RegisterCoursesPage - INFO: Element found with locator: iframe[title*='CVC'] and  locatorType: css
+03/19/2021 11:51:49 PM - RegisterCoursesPage - INFO: Element found with locator: cvc and  locatorType: name
+03/19/2021 11:51:49 PM - RegisterCoursesPage - INFO: Clear field with locator: cvc locatorType: name
+03/19/2021 11:51:49 PM - RegisterCoursesPage - INFO: Element found with locator: div.stripe-outer and  locatorType: css
+03/19/2021 11:51:49 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+03/19/2021 11:52:00 PM - RegisterCoursesPage - INFO: Element not appeared on the web page
+03/19/2021 11:52:00 PM - RegisterCoursesPage - INFO: Element found with locator: iframe[title*='card number'] and  locatorType: css
+03/19/2021 11:52:00 PM - RegisterCoursesPage - INFO: Element found with locator: input[placeholder= 'Card Number'] and  locatorType: css
+03/19/2021 11:52:01 PM - RegisterCoursesPage - INFO: Sent data on element with locator: input[placeholder= 'Card Number'] locatorType: css
+03/19/2021 11:52:01 PM - RegisterCoursesPage - INFO: Element found with locator: iframe[title*='expiration date'] and  locatorType: css
+03/19/2021 11:52:01 PM - RegisterCoursesPage - INFO: Element found with locator: exp-date and  locatorType: name
+03/19/2021 11:52:01 PM - RegisterCoursesPage - INFO: Sent data on element with locator: exp-date locatorType: name
+03/19/2021 11:52:02 PM - RegisterCoursesPage - INFO: Element found with locator: iframe[title*='CVC'] and  locatorType: css
+03/19/2021 11:52:02 PM - RegisterCoursesPage - INFO: Element found with locator: cvc and  locatorType: name
+03/19/2021 11:52:02 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cvc locatorType: name
+03/19/2021 11:52:02 PM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(@class, 'sp-buy')] and  locatorType: xpath
+03/19/2021 11:52:03 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[contains(@class, 'sp-buy')] locatorType: xpath
+03/19/2021 11:52:03 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+03/19/2021 11:52:13 PM - RegisterCoursesPage - INFO: Element not appeared on the web page
+03/19/2021 11:52:13 PM - RegisterCoursesPage - INFO: Element found with locator: //li[contains(@class, 'text-danger')]
+	//span[contains(text(), 'card number is incomplete')] and  locatorType: xpath
+03/19/2021 11:52:13 PM - RegisterCoursesPage - INFO: Element is displayed
+03/19/2021 11:52:13 PM - RegisterCoursesPage - INFO: Screenshot save to directory: /home/shivam/Documents/selenium_novice_project/base/../screenshots/See screenshot directory for error displayed..1616178133267.png
+03/19/2021 11:52:13 PM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(@class, 'sp-buy')] and  locatorType: xpath
+03/19/2021 11:52:13 PM - RegisterCoursesPage - INFO: Element :: 'Enroll Button' is not enabled

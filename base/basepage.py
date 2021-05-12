@@ -10,6 +10,8 @@ This should not be used by creating object instances
 Example:
     Class LoginPage(BasePage)
 """
+import sys 
+sys.path.append("/home/shivam/Documents/selenium_novice_project")
 from base.selenium_driver import SeleniumDriver
 from traceback import print_stack
 from utilities.util import Util

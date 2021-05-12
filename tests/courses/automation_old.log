@@ -1,0 +1,38 @@
+03/12/2021 01:08:46 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + payment_page existence Verification
+03/12/2021 01:08:56 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Course Enrollment Failed
+03/12/2021 01:08:57 PM - TestStatus - INFO: Screenshot save to directory: /home/shivam/Documents/selenium_novice_project/base/../screenshots/Course Enrollment Failed.1615534736723.png
+03/12/2021 01:08:57 PM - TestStatus - ERROR: test_invalidEnrollment ### TEST FAILED
+'] locatorType: css
+03/12/2021 01:08:10 PM - RegisterCoursesPage - INFO: Element found with locator: //h4[contains(text(), 'JavaScript for beginners')] and  locatorType: xpath
+03/12/2021 01:08:16 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[contains(text(), 'JavaScript for beginners')] locatorType: xpath
+03/12/2021 01:08:17 PM - RegisterCoursesPage - INFO: Element found with locator: //button[text()= 'Enroll in Course'] and  locatorType: xpath
+03/12/2021 01:08:30 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[text()= 'Enroll in Course'] locatorType: xpath
+03/12/2021 01:08:30 PM - RegisterCoursesPage - INFO: Element found with locator: div.stripe-outer and  locatorType: css
+03/12/2021 01:08:30 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to able to perform the action.
+03/12/2021 01:08:30 PM - RegisterCoursesPage - INFO: Element not appeared on the web page
+03/12/2021 01:08:35 PM - RegisterCoursesPage - INFO: Element not found with locator: input[placeholder= 'Card Number'] and  locatorType: css
+03/12/2021 01:08:35 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: input[placeholder= 'Card Number'] locatorType: css
+03/12/2021 01:08:40 PM - RegisterCoursesPage - INFO: Element not found with locator: exp-date and  locatorType: name
+03/12/2021 01:08:40 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: exp-date locatorType: name
+03/12/2021 01:08:45 PM - RegisterCoursesPage - INFO: Element not found with locator: cvc and  locatorType: name
+03/12/2021 01:08:45 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: cvc locatorType: name
+03/12/2021 01:08:45 PM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(@class, 'sp-buy')] and  locatorType: xpath
+03/12/2021 01:08:46 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[contains(@class, 'sp-buy')] locatorType: xpath
+03/12/2021 01:08:46 PM - RegisterCoursesPage - INFO: Element found with locator: //h3[contains(text(), 'Payment Information')] and  locatorType: xpath
+03/12/2021 01:08:46 PM - RegisterCoursesPage - INFO: Element present with locator: //h3[contains(text(), 'Payment Information')] locatorType: xpath
+03/12/2021 01:08:46 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to able to perform the action.
+03/12/2021 01:08:46 PM - RegisterCoursesPage - INFO: Element not appeared on the web page
+03/12/2021 01:08:46 PM - RegisterCoursesPage - INFO: Element found with locator: //li[contains(@class, 'text-danger')]
+	//span[contains(text(), 'card number is incomplete')] and  locatorType: xpath
+03/12/2021 01:08:46 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to able to perform the action.
+03/12/2021 01:08:46 PM - RegisterCoursesPage - INFO: Element not appeared on the web page
+03/12/2021 01:08:51 PM - RegisterCoursesPage - INFO: Element not found with locator: //li[contains(@class, 'text-danger')]
+	//span[contains(text(), 'expiration date is incomplete')] and  locatorType: xpath
+03/12/2021 01:08:51 PM - RegisterCoursesPage - INFO: Element not displayed with locator: //li[contains(@class, 'text-danger')]
+	//span[contains(text(), 'expiration date is incomplete')] locatorType: xpath
+03/12/2021 01:08:51 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to able to perform the action.
+03/12/2021 01:08:51 PM - RegisterCoursesPage - INFO: Element not appeared on the web page
+03/12/2021 01:08:56 PM - RegisterCoursesPage - INFO: Element not found with locator: //li[contains(@class, 'text-danger')]
+	//span[contains(text(), 'security code is incomplete')] and  locatorType: xpath
+03/12/2021 01:08:56 PM - RegisterCoursesPage - INFO: Element not displayed with locator: //li[contains(@class, 'text-danger')]
+	//span[contains(text(), 'security code is incomplete')] locatorType: xpath

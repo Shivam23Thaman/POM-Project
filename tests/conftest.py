@@ -1,25 +1,29 @@
 import pytest
-from selenium import webdriver
-import sys
-sys.path.append('/home/shivam/Documents/selenium_novice_project')
+import os
+import sys 
+sys.path.append("/home/shivam/Documents/selenium_novice_project")
 from base.webdriverfactory import WebDriverFactory
+from pages.home.login_page import LoginPage
 
-@pytest.fixture()
+@pytest.yield_fixture()
 def setUp():
     print("Running method level setUp")
     yield
     print("Running method level tearDown")
 
 
-@pytest.fixture(scope="class")
+@pytest.yield_fixture(scope="class")
 def oneTimeSetUp(request, browser):
     print("Running one time setUp")
+    # cwd = os.getcwd()
+    # os.remove(f'{cwd}/automation.log')
     wdf = WebDriverFactory(browser)
-    driver = wdf.getWebdriverInstance()
+    driver = wdf.getWebDriverInstance()
+    lp = LoginPage(driver)
+    lp.login("test@email.com", "abcabc")
 
     if request.cls is not None:
         request.cls.driver = driver
-
     yield driver
     driver.quit()
     print("Running one time tearDown")

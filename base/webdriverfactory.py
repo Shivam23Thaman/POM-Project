@@ -6,8 +6,12 @@ class WebDriverFactory():
     def __init__(self, browser):
         self.browser = browser
 
-    def getWebdriverInstance(self):
-        baseURL = "https://letskodeit.teachable.com/"
+    def getWebDriverInstance(self):
+        baseURL = "https://courses.letskodeit.com/"
+        
+        # opt = webdriver.ChromeOptions()
+        # opt.add_argument("user-data-dir=/home/shivam/.config/google-chrome/Default")
+        
         if self.browser == "iexplorer":
             driver = webdriver.Ie()
         elif self.browser == "firefox":
@@ -15,9 +19,10 @@ class WebDriverFactory():
         elif self.browser == "chrome":
             driver = webdriver.Chrome()
         else:
+            #driver = webdriver.Chrome(options=opt)
             driver = webdriver.Chrome()
 
-        driver.implicitly_wait(3)
+        driver.implicitly_wait(5)
         driver.maximize_window()
         driver.get(baseURL)
 
