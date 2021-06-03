@@ -35,9 +35,8 @@ class SeleniumDriver():
             self.log.error("### Exception Occurred when taking screenshot")
             print_stack()
 
-    def getTitle(self):
-        return self.driver.title
-
+    getTitle = lambda self: self.driver.title:
+    
     def getByType(self, locatorType):
         locatorType = locatorType.lower()
         if locatorType == "id":
