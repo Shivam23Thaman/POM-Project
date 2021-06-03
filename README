@@ -1,6 +1,6 @@
 Steps
 
-1. Install pytest, Selenium python bindings, pandas.
+1. Install pytest, Selenium python bindings.
 2. In pages/flipkart_iphone and tests/IphoneTest change the path in sys.path.append to wherever you have the project files.
 3. In CMD or terminal from tests folder, type following command:
 
