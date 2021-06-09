@@ -1,4 +1,6 @@
-Steps
+This is a Page Object Model based Automation Testing project that is based on Selenium Webdriver and uses Pytest as the TDD framework.
+
+Steps to use:
 
 1. Install pytest, Selenium python bindings.
 2. In pages/{filename} and tests/{filename} change the path in sys.path.append to wherever you have the project files.
