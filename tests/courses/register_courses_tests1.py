@@ -1,5 +1,5 @@
-import sys 
-sys.path.append("/home/shivam/Documents/selenium_novice_project")
+# import sys
+# sys.path.append("/home/shivam/Documents/selenium_novice_project")
 from utilities.teststatus import TestStatus
 from base.basepage import BasePage
 from pages.courses.register_courses_page1 import RegisterCoursesPage
@@ -8,7 +8,7 @@ import unittest
 import pytest
 
 @pytest.mark.usefixtures("oneTimeSetUp", "setUp")
-class Tests(unittest.TestCase, BasePage):
+class RegisterCourseTests(unittest.TestCase, BasePage):
 
     @pytest.fixture(autouse=True)
     def classSetup(self, oneTimeSetUp):

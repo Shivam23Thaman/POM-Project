@@ -1,7 +1,7 @@
 import pytest
 import os
-import sys 
-sys.path.append("/home/shivam/Documents/selenium_novice_project")
+# import sys
+# sys.path.append("/home/shivam/Documents/selenium_novice_project")
 from base.webdriverfactory import WebDriverFactory
 from pages.home.login_page import LoginPage
 

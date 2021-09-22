@@ -1,5 +1,5 @@
-import sys 
-sys.path.append("/home/shivam/Documents/selenium_novice_project")
+# import sys
+# sys.path.append("/home/shivam/Documents/selenium_novice_project")
 import utilities.custom_logger as cl
 import logging
 from base.basepage import BasePage

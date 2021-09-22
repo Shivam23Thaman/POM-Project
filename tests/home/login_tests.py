@@ -1,5 +1,5 @@
-import sys 
-sys.path.append("/home/shivam/Documents/selenium_novice_project")
+# import sys
+# sys.path.append("/home/shivam/Documents/selenium_novice_project")
 from pages.home.login_page import LoginPage
 from utilities.teststatus import TestStatus
 import unittest

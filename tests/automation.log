@@ -1,0 +1,29 @@
+09/22/2021 12:56:49 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Title Verification
+09/22/2021 12:56:49 PM - TestStatus - INFO: Screenshot save to directory: /home/shivam/Documents/POM-Project/base/../screenshots/Title Verification.1632295609223.png
+09/22/2021 12:56:49 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+09/22/2021 12:56:49 PM - TestStatus - ERROR: test_validLogin ### TEST FAILED
+placeholder='Email Address'] locatorType: css
+09/22/2021 12:55:59 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/22/2021 12:55:59 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+09/22/2021 12:55:59 PM - LoginPage - INFO: Element found with locator: //input[@value='Login'] and  locatorType: xpath
+09/22/2021 12:56:03 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+09/22/2021 12:56:08 PM - LoginPage - INFO: Element not found with locator: a[href='/login'] and locatorType: css
+09/22/2021 12:56:08 PM - LoginPage - INFO: Cannot click on the element with locator: a[href='/login'] locatorType: css
+09/22/2021 12:56:13 PM - LoginPage - INFO: Element not found with locator: input[placeholder='Email Address'] and locatorType: css
+09/22/2021 12:56:13 PM - LoginPage - INFO: Cannot send data on the element with locator: input[placeholder='Email Address'] locatorType: css
+09/22/2021 12:56:18 PM - LoginPage - INFO: Element not found with locator: password and locatorType: id
+09/22/2021 12:56:18 PM - LoginPage - INFO: Cannot send data on the element with locator: password locatorType: id
+09/22/2021 12:56:23 PM - LoginPage - INFO: Element not found with locator: //input[@value='Login'] and locatorType: xpath
+09/22/2021 12:56:23 PM - LoginPage - INFO: Cannot click on the element with locator: //input[@value='Login'] locatorType: xpath
+09/22/2021 12:56:28 PM - LoginPage - INFO: Element not found with locator: //div[@class='form-group has-error']//span[contains(text(), 'username or password is invalid')] and locatorType: xpath
+09/22/2021 12:56:28 PM - LoginPage - INFO: Element not present with locator: //div[@class='form-group has-error']//span[contains(text(), 'username or password is invalid')] locatorType: xpath
+09/22/2021 12:56:34 PM - LoginPage - INFO: Element not found with locator: a[href='/login'] and locatorType: css
+09/22/2021 12:56:34 PM - LoginPage - INFO: Cannot click on the element with locator: a[href='/login'] locatorType: css
+09/22/2021 12:56:39 PM - LoginPage - INFO: Element not found with locator: input[placeholder='Email Address'] and locatorType: css
+09/22/2021 12:56:39 PM - LoginPage - INFO: Cannot send data on the element with locator: input[placeholder='Email Address'] locatorType: css
+09/22/2021 12:56:44 PM - LoginPage - INFO: Element not found with locator: password and locatorType: id
+09/22/2021 12:56:44 PM - LoginPage - INFO: Cannot send data on the element with locator: password locatorType: id
+09/22/2021 12:56:49 PM - LoginPage - INFO: Element not found with locator: //input[@value='Login'] and locatorType: xpath
+09/22/2021 12:56:49 PM - LoginPage - INFO: Cannot click on the element with locator: //input[@value='Login'] locatorType: xpath
+09/22/2021 12:56:49 PM - LoginPage - INFO: Element found with locator: //button[@id='dropdownMenu1']/img and  locatorType: xpath
+09/22/2021 12:56:49 PM - LoginPage - INFO: Element present with locator: //button[@id='dropdownMenu1']/img locatorType: xpath
